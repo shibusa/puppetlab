@@ -1,0 +1,7 @@
+.vagrant
+.pyc
+.DS_Store
+VBoxGuestAdditions_5.1.26.iso
+ghquery/
+*.pem
+puppet-enterprise-*
